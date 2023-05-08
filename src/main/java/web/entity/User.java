@@ -3,7 +3,7 @@ package web.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "users231")
+@Table(name = "users999")
 public class User {
 
     @Id
